@@ -1,0 +1,5 @@
+digraph {
+	v0 [label="0:INPUT[name=x_0]" color=blue shape=ellipse]
+	v1 [label="1:SHR[shift=52]" color=red shape=ellipse]
+	v0 -> v1 [style=""]
+}
